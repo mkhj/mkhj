@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Welcome to my little creative corner of the internet. Here you can find various things I am working on in my spare time. 
+
 <!--
 **mkhj/mkhj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
